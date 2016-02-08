@@ -1,6 +1,5 @@
 {
     "description": "RESTserver",
     "name": "lexplatt/codeigniter-restserver",
-    "version": "2.7.2",
     "homepage": "https://github.com/chriskacerguis/codeigniter-restserver"
 }
